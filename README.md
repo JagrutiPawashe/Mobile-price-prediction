@@ -16,7 +16,9 @@ algorithms.
 ### Scope:
 
 ● Prepare and analyse data, treat outliers and missing values
+
 ● Check the distribution of key numerical variables
+
 ● Building different Machine Learning models
 
 ### Learning Outcome:
